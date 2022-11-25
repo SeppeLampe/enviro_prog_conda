@@ -21,6 +21,7 @@ Don't type the arrows:
 conda create -n <name> -c <channel> python=<version> <packages>
 ```
 where,
+
     -```name``` is the name of your environment, use ```<yourfirstname>_env```
     -```channel``` is the name of the channel you're retrieving packages from, use ```conda-forge```  
     -```version``` is the version of python you want, for now use ```3.9```
