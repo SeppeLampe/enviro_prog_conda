@@ -40,6 +40,9 @@ Check what was installed (why are there other packages in your environment in ad
 conda list
 ```
 
+Install some additional packages (e.g., numpy, pandas, xarray, matplotlib, seaborn, scipy).
+Go to your web browser of choice type a package you haven't installed yet and type _package name conda forge_, the first result will be the one you need [for example](https://anaconda.org/conda-forge/scipy). Copy the install command and paste it into your anaconda prompt.
+
 Check your list of environments again.
 
 
